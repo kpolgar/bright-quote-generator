@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bright-quote-generator/static/css/main.13b401ed.chunk.css",
+    "main.js": "/bright-quote-generator/static/js/main.f16735bd.chunk.js",
+    "main.js.map": "/bright-quote-generator/static/js/main.f16735bd.chunk.js.map",
+    "runtime-main.js": "/bright-quote-generator/static/js/runtime-main.c3bd1890.js",
+    "runtime-main.js.map": "/bright-quote-generator/static/js/runtime-main.c3bd1890.js.map",
+    "static/js/2.5bc5c3d5.chunk.js": "/bright-quote-generator/static/js/2.5bc5c3d5.chunk.js",
+    "static/js/2.5bc5c3d5.chunk.js.map": "/bright-quote-generator/static/js/2.5bc5c3d5.chunk.js.map",
+    "index.html": "/bright-quote-generator/index.html",
+    "precache-manifest.338d9f4816d6fb4608f05ada0a4f29a4.js": "/bright-quote-generator/precache-manifest.338d9f4816d6fb4608f05ada0a4f29a4.js",
+    "service-worker.js": "/bright-quote-generator/service-worker.js",
+    "static/css/main.13b401ed.chunk.css.map": "/bright-quote-generator/static/css/main.13b401ed.chunk.css.map",
+    "static/js/2.5bc5c3d5.chunk.js.LICENSE.txt": "/bright-quote-generator/static/js/2.5bc5c3d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3bd1890.js",
+    "static/js/2.5bc5c3d5.chunk.js",
+    "static/css/main.13b401ed.chunk.css",
+    "static/js/main.f16735bd.chunk.js"
+  ]
+}
